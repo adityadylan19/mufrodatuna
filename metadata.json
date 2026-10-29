@@ -1,0 +1,6 @@
+{
+  "name": "Mufradat Arabiyah - Media Pembelajaran Kosakata Arab Interaktif",
+  "description": "Media pembelajaran bahasa Arab interaktif berbasis kartu mufradat bergambar, audio pelafalan, kuis interaktif, AI tutor, dan dashboard admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
